@@ -1,0 +1,73 @@
+
+// fonts
+@import url('https://fonts.googleapis.com/css?family=Roboto Slab');
+
+$font-family-sans-serif: "Roboto Slab", sans-serif;
+$presentation-heading-color: #75AADB;
+
+/*-- scss:rules --*/
+.reveal .autor{
+  font-size: 1.1em;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 400px;
+
+}
+.reveal .subtitle{
+  font-size: 1.1em;
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 10px;
+
+}
+
+
+.reveal .title {
+  font-size: 1.5em;
+  color: #FAFAFA;
+  border-radius: 25px;
+  border: 20px solid #23373B;
+  background-color: #23373B;
+  position: absolute; 
+  left: 0px; 
+  right: 0px;
+  top: 200px;
+
+}
+
+
+.reveal .universidade{
+   position: absolute;
+    bottom: 5px;
+    left:   10px;
+    height: 190px;
+    width: 210px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("ufam.jpg");
+}
+
+.reveal .programa{
+   position: absolute;
+    bottom: 5px;
+    right:   10px;
+    height: 190px;
+    width: 210px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-image: url("ppgfis.png");
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,33 @@
+---
+title: "Transporte Clássico e Quântico"
+subtitle: "Universidade Federal do Amazonas<br>Pró-Reitoria de Pesquisa e Pós-Graduação<br>Programa de Pós-Graduação em Física"
+author: "[Geyson Maquiné Batalha]{.autor}[]{.universidade}[]{.programa}"
+lang: pt
+format:
+  revealjs:
+    theme: ["estilo.scss"]
+    height: 900
+    width: 1600
+editor: visual
+---
+
+## Apresentaçao no Quarto
+
+Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>.
+
+## Bullets
+
+When you click the **Render** button a document will be generated that includes:
+
+-   Content authored with markdown
+-   Output from executable code
+
+$$\int f(x)dx=\sum_{i=0}^N \beta \gamma\dfrac{\Delta x}{\Delta y}$$
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
